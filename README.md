@@ -18,8 +18,7 @@ A database of ascents routes was obtained from the company Vertical-Life. Climbe
 </p>
 ## Exploratory Analysis
 
-from IPython.display import HTML, display
-display(HTML("<table><tr><td><img src=./readme_files/indoor_distribution.png></td><td><img src=./readme_files/outdoor_distribution.png></td></tr></table>"))
+<table><tr><td><img src=./readme_files/indoor_distribution.png></td><td><img src=./readme_files/outdoor_distribution.png></td></tr></table>
 
 
 ## Features
@@ -28,8 +27,10 @@ display(HTML("<table><tr><td><img src=./readme_files/indoor_distribution.png></t
 <img src="./readme_files/results.png" width="400px">
 </p>
 ## Future Improvements
+
 <!--## Supplemental Material
 Results of analysis of climbing ascents are discussed in the paper:
 M.Andric, I.Ivanova, F.Ricci. Climbing Route Difficulty Grade Prediction with Explanation. 2021 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT). (to appear)-->
+
 ## Credits
 Special thanks to [Vertical-Life](https://www.vertical-life.info/) for providing the data and to Ben Lepesant and Andrea Janes for their time and expertise that greatly assisted this work.
