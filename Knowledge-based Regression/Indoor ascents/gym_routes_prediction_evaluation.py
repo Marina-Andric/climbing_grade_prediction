@@ -4,11 +4,8 @@ import numpy as np
 import pandas as pd
 import psycopg2
 from sklearn import linear_model
-from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_absolute_error, mean_squared_error
-from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
-# from sql_queries import sql_features_gym_routes, sql_route_features, sql_user_features, sql_history
 from gym_routes_sql_queries import sql_user_features, sql_route_features, sql_features_gym_routes, sql_setter_features, sql_mad_function
 
 

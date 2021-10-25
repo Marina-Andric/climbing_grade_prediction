@@ -1,5 +1,7 @@
 <!---<img align="left" src="./readme_files/climbing-route.png" width="100px">--->
 
+<table><tr><td><img src=./readme_files/crag.png width="200px"></td><td><img src=./readme_files/crag-predicted.png width="200px"></td><td><img src=./readme_files/explanation.png width="200px"></td></tr></table>
+
 ## Climbing Route Difficulty Grade Prediction
 It is well-known in the climbing community around the world that climbing routes are subjectively graded. A route setter or the climber who first ascended the route typically assigns the difficulty grade that is then shared with the rest of the community. The rater's levels of strenght and skill lead to a personal bias. Another climber, upon attempting the ascent, may find the route more difficulty or easier than officially stated. It is desirable to provide to each climber the route difficulty grade that reflects how this particular climber would perceived the difficulty of the route. 
 
@@ -18,8 +20,8 @@ A database of ascents routes was obtained from the Vertical-Life company. Climbe
 </p>
 
 ## Exploratory Analysis
-<img src="./readme_files/indoor_distribution.png" width="600px">
-<img src="./readme_files/outdoor_distribution.png" width="600px">
+<img src="./readme_files/indoor_distribution.png" width="700px">
+<!---<img src="./readme_files/outdoor_distribution.png" width="600px">--->
 <!---<table><tr><td><img src=./readme_files/indoor_distribution.png></td><td><img src=./readme_files/outdoor_distribution.png></td></tr></table> --->
 
 
@@ -34,6 +36,7 @@ We compared the performances of linear regression (linR), random forest regressi
 </p>
 
 ## Future Improvements
+
 
 <!--## Supplemental Material
 Results of analysis of climbing ascents are discussed in the paper:
