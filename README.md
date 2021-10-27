@@ -1,6 +1,6 @@
 <!---<img align="left" src="./readme_files/climbing-route.png" width="100px">--->
 
-<table><tr><td><img src=./readme_files/crag.png width="250px"></td><td><img src=./readme_files/crag-predictions.png width="250px"></td><td><img src=./readme_files/crag-predictions-explanation.png width="250px"></td></tr></table> 
+<table><tr><td><img src=./readme_files/crag_new.png width="250px"></td><td><img src=./readme_files/crag_prediction_new.png width="250px"></td><td><img src=./readme_files/crag_prediction_explanation.png width="250px"></td></tr></table> 
 **Standard interface for browsing outdoor climbing routes * Interface with predicted Perceived Grades * Interface with the explanation for the prediction.**
 
 ## Climbing Route Difficulty Grade Prediction with Explanation
@@ -14,7 +14,7 @@ Two types of algorithms were developed to predict the climber's perceived grade 
 * Knowledge-based models.
 * Collaborative filtering.
 
-The perceived grade prediction algorithms are implemented in Python 3.7+.  
+The perceived grade prediction algorithms are implemented in Python 3.7+.   
 ## Data
 A database of ascents routes was obtained from the Vertical-Life company. Climbers recorded their ascents on indoor and outdoor routes through the [Vertical-Life app](https://www.vertical-life.info/). Each ascent record included the identifier of the climber, the route, the route setter (for indoor ascents), date of ascent and the climber's perceived route difficulty grade. In about 8% of ascent records, the climber's grade is different from the official route grade. About 76% of climbers registered at least once a grade different from the official grade. The sparsity of climber-route matrices are 99.7% and 99.4% for data sets of indoor and outdoor ascents respectively.
 
