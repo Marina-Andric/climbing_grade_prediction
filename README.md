@@ -1,7 +1,6 @@
 <!---<img align="left" src="./readme_files/climbing-route.png" width="100px">--->
 
-<table><tr><td><img src=./readme_files/crag_new.png width="250px"></td><td><img src=./readme_files/crag_prediction_new.png width="250px"></td><td><img src=./readme_files/crag_prediction_explanation.png width="250px"></td></tr></table> 
-**Standard interface for browsing outdoor climbing routes * Interface with predicted Perceived Grades * Interface with the explanation for the prediction.**
+<table><tr><td><img src=./readme_files/crag.png width="250px"></td><td><img src=./readme_files/crag_prediction.png width="250px"></td><td><img src=./readme_files/crag_prediction_explanation.png width="250px"></td></tr></table> 
 
 ## Climbing Route Difficulty Grade Prediction with Explanation
 It is well-known in climbing communities around the world that climbing routes are subjectively graded. A route setter or the climber who first ascended the route typically assigns the difficulty grade that is then shared with the rest of the community. The rater's levels of strenght and skill lead to a personal bias. Another climber, upon attempting the ascent, may find the route more difficulty or easier than officially stated. It is desirable to provide to each climber the route difficulty grade that reflects how this particular climber would perceived the difficulty of the route. 
