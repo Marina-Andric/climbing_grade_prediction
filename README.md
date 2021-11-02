@@ -6,7 +6,7 @@
 It is well-known in climbing communities around the world that climbing routes are subjectively graded. A climber who created a route (i.e., route setter) or a climber who first ascended a route typically assign the difficulty grade to the route. The rater's levels of strenght and skill may lead to a personal bias. Thus, another climber upon attempting the ascent may find the route more difficulty or easier than officially stated. From the perspective of a regular climber, it is desirable to have a reliable grade when choosing his next ascent that matches his expectation about the ascent difficulty. 
 
 Analysis of climbing ascents is discussed in the paper:
-> *M.Andric, I.Ivanova, F.Ricci. **Climbing Route Difficulty Grade Prediction with Explanation**. 2021 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT). (to appear)*
+> *M.Andric, I.Ivanova, F.Ricci. **Climbing Route Difficulty Grade Prediction with Explanation**. In 2021 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT). (to appear)*
 ## Algorithms and Implementation
 Two types of algorithms were developed to predict a climber's perceived grade of the route's difficulty grade: 
 
