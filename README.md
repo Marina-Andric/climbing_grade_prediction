@@ -13,6 +13,18 @@ Two types of algorithms were developed to predict a climber's perceived grade of
 * Knowledge-based models.
 * Collaborative filtering.
 
+## Run the code
+**- Collaborative filtering**
+jupyter notebook is in folder:
+```
+/Collaborative filterin/Cross_validation_indoor.ipynb
+```
+**- Knowledge-based Regression**
+.py scripts are in folder:
+```
+/Knowledge-based Regression/Indoor ascents/
+/Knowledge-based Regression/Indoor ascents/
+```
 The perceived grade prediction algorithms are implemented in Python 3.7+.   
 ## Data
 A database of ascents routes was obtained from the Vertical-Life company. Climbers recorded their ascents on indoor and outdoor routes through the [Vertical-Life app](https://www.vertical-life.info/). Each ascent record included the identifier of the climber, the route, the route setter (for indoor ascents), date of ascent and the climber's perceived route difficulty grade. In about 8% of ascent records, the climber's grade is different from the official route grade. About 76% of climbers registered at least once a grade different from the official grade. The sparsity of climber-route matrices are 99.7% and 99.4% for data sets of indoor and outdoor ascents respectively.
