@@ -3,10 +3,10 @@
 <table><tr><td><img src=./readme_files/crag.png width="250px"></td><td><img src=./readme_files/crag_prediction.png width="250px"></td><td><img src=./readme_files/crag_prediction_explanation.png width="250px"></td></tr></table> 
 
 ## Climbing Grade Prediction
-It is well-known in climbing communities around the world that climbing routes are subjectively graded. A climber who created a route (i.e., route setter) or a climber who first ascended a route typically assign the difficulty grade to the route. The rater's levels of strenght and skill may lead to a personal bias. Thus, another climber upon attempting the ascent may find the route more difficulty or easier than officially stated. From the perspective of a regular climber, when choosing his next ascent it is highly valuable to have a reliable grade that matches his expectation about the ascent difficulty. 
+It is well-known in climbing communities around the world that climbing routes are subjectively graded. A climber who created a route (i.e., a route setter) or a climber who first ascended a route typically assign the difficulty grade to that route. The rater's levels of strenght and skill may lead to a personal bias. Thus, another climber upon attempting the ascent may find the route more difficulty or easier than officially stated. Climbing beyond one's comfortable grade range could cause severe injuries. From the perspective of an amateur climber, it is important to have a reliable grade when choosing his next ascent that matches his expectation about the ascent difficulty. 
 
 Analysis of climbing ascents is discussed in the paper:
-> *M.Andric, I.Ivanova, F.Ricci. **Climbing Route Difficulty Grade Prediction with Explanation**. 2021 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT). (to appear)*
+> *M.Andric, I.Ivanova, F.Ricci. **Climbing Route Difficulty Grade Prediction with Explanation**. In 2021 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT). (to appear)*
 ## Algorithms and Implementation
 Two types of algorithms were developed to predict a climber's perceived grade of the route's difficulty grade: 
 
@@ -70,4 +70,4 @@ The next steps include developing a first prototype and collect climber's feedba
 
 
 ## Credits
-Special thanks to [Vertical-Life](https://www.vertical-life.info/) for providing the data and to Ben Lepesant and Andrea Janes for their time and expertise that greatly assisted this work!
+Special thanks to [Vertical-Life](https://www.vertical-life.info/) for providing the data and to Ben Lepesant and Andrea Janes for their time and expertise that greatly assisted this work.
